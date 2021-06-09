@@ -1,0 +1,48 @@
+body {
+	background-image: radial-gradient(circle at 18.42% 50%, #0088f7 0, #0084f7 5%, #007ff6 10%, #3479f2 15%, #6272ec 20%, #816be4 25%, #9863db 30%, #ac5bcf 35%, #bc52c3 40%, #c94ab5 45%, #d442a7 50%, #dc3b98 55%, #e23789 60%, #e63579 65%, #e7366a 70%, #e63a5b 75%, #e4404c 80%, #e0473e 85%, #da4f30 90%, #d25720 95%, #ca5f0d 100%);
+	color: white;
+	font-size: large;
+	font-family: 'Ink Free';
+	
+}
+
+#heading{
+	color: black;
+}
+
+marquee{
+	font-size: large;
+	font-family: 'Ink Free';
+}
+
+.login_div1,
+.login_div2 {
+	background: white;
+	padding: 10px;
+	float: none;
+	border-radius: 15px;
+}
+
+
+#player1_name_input,
+#player2_name_input {
+	display: inline-block;
+
+}
+
+#word {
+	width: 60%;
+}
+
+#word_display {
+	letter-spacing: 5px;
+}
+
+#output {
+	background: white;
+	border-radius: 10px;
+	border-top: 10px solid #AA4465;
+	padding: 10px;
+	float: none;
+	text-align: left;
+}
